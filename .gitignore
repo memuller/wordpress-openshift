@@ -1,0 +1,15 @@
+.c9revisions
+/data/
+/php/wp-config.php
+/php/wp-content/uploads
+/php/nginx.conf
+
+/php/wp-content/cache
+/php/wp-content/w3tc-config
+/php/wp-content/plugins/w3tc-wp-loader.php
+/php/wp-content/advanced-cache.php
+
+node_modules
+.DS_Store
+*.sublime*
+*.svn
